@@ -50,6 +50,7 @@ html, body {
     border-radius: 0.5rem;
     display: flex;
     color: #55F991;
+    align-items: center;
 }
 
 .password-length > input[type=number]{
